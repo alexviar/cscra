@@ -1,6 +1,6 @@
-[submodule "cscra-api"]
+[submodule "backend"]
 	path = backend
 	url = https://github.com/alexviar/cscra-api.git
-[submodule "cscra-frontend"]
+[submodule "frontend"]
 	path = frontend
 	url = https://github.com/alexviar/cscra-frontend.git
